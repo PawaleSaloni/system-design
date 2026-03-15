@@ -29,7 +29,7 @@ application that handles millions of users.
       [Database]
 ```
 
-### 2️⃣ Monolithic vs Microservices
+### 2️⃣ Monolith vs Microservices
 ```
 MONOLITH                        MICROSERVICES
 ━━━━━━━━━━━━━━━━━━━━━━━━        ━━━━━━━━━━━━━━━━━━━━━━━━
