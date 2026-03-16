@@ -174,7 +174,7 @@ users ──────→ roles (many-to-many)
 ## 🔧 LLD — Low Level Design
 
 ### Common Interview Questions
-
+ 
 | Question | Key Classes |
 |---|---|
 | Design ATM | ATM, Card, Account, Transaction, CashDispenser |
